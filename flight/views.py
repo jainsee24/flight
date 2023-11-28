@@ -27,7 +27,7 @@ try:
             addInternationalFlights()
 except:
     pass
-
+# addInternationalFlights()
 # Create your views here.
 def add(request):
     addInternationalFlights()

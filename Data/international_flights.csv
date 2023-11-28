@@ -7120,8 +7120,6 @@ index,origin,destination,depart_time,depart_weekday,duration,arrival_time,arriva
 7272,YYZ,BCN,20:10:00,4,13:55:00,10:05:00,5,LH6635,LH,Lufthansa,93052,,
 7273,YYZ,BCN,20:10:00,0,13:55:00,10:05:00,1,LH6635,LH,Lufthansa,93052,111320,
 7274,LKO,DMK,20:10:00,0,13:55:00,10:05:00,1,LH6635,LH,Lufthansa,93052,111320,
-Here are the flight entries for the best flights ranked based on price and convenience:
-
 7275, SFO, BOM, 14:05:00, 0, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
 7276, SFO, BOM, 14:05:00, 1, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
 7277, SFO, BOM, 14:05:00, 2, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
@@ -7129,7 +7127,6 @@ Here are the flight entries for the best flights ranked based on price and conve
 7279, SFO, BOM, 14:05:00, 4, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
 7280, SFO, BOM, 14:05:00, 5, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
 7281, SFO, BOM, 14:05:00, 6, 12:40:00, 21:05:00, 1, KL1234, KL, KLM, 557, 1000, 1500
-
 7282, SFO, BOM, 14:50:00, 0, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
 7283, SFO, BOM, 14:50:00, 1, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
 7284, SFO, BOM, 14:50:00, 2, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
@@ -7137,7 +7134,6 @@ Here are the flight entries for the best flights ranked based on price and conve
 7286, SFO, BOM, 14:50:00, 4, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
 7287, SFO, BOM, 14:50:00, 5, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
 7288, SFO, BOM, 14:50:00, 6, 2:30:00, 22:10:00, 1, QR5678, QR, Qatar Airways, 772, 1200, 1800
-
 7289, SFO, BOM, 18:25:00, 0, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
 7290, SFO, BOM, 18:25:00, 1, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
 7291, SFO, BOM, 18:25:00, 2, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
@@ -7145,17 +7141,13 @@ Here are the flight entries for the best flights ranked based on price and conve
 7293, SFO, BOM, 18:25:00, 4, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
 7294, SFO, BOM, 18:25:00, 5, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
 7295, SFO, BOM, 18:25:00, 6, 5:10:00, 23:40:00, 1, TK9101, TK, Turkish Airlines, 810, 1300, 2000
-
 7296, SFO, BOM, 6:10:00, 0, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7297, SFO, BOM, 6:10:00, 1, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7298, SFO, BOM, 6:10:00, 2, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7299, SFO, BOM, 6:10:00, 3, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7300, SFO, BOM, 6:10:00, 4, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7301, SFO, BOM, 6:10:00, 5, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
-7302, SFO, BOM, 6:10:
-
-00, 6, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
-
+7302, SFO, BOM, 6:10:00, 6, 12:05:00, 28:25:00, 2, DL1234, DL, Delta, 559, 1000, 1500
 7303, SFO, BOM, 6:10:00, 0, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
 7304, SFO, BOM, 6:10:00, 1, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
 7305, SFO, BOM, 6:10:00, 2, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
@@ -7163,7 +7155,6 @@ Here are the flight entries for the best flights ranked based on price and conve
 7307, SFO, BOM, 6:10:00, 4, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
 7308, SFO, BOM, 6:10:00, 5, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
 7309, SFO, BOM, 6:10:00, 6, 12:40:00, 29:00:00, 2, DL5678, DL, Delta, 562, 1100, 1600
-
 7310, SFO, BOM, 23:30:00, 0, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
 7311, SFO, BOM, 23:30:00, 1, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
 7312, SFO, BOM, 23:30:00, 2, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
@@ -7171,7 +7162,6 @@ Here are the flight entries for the best flights ranked based on price and conve
 7314, SFO, BOM, 23:30:00, 4, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
 7315, SFO, BOM, 23:30:00, 5, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
 7316, SFO, BOM, 23:30:00, 6, 11:40:00, 34:40:00, 2, OZ2345, OZ, Asiana, 694, 1200, 1800
-
 7317, SFO, BOM, 17:48:00, 0, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
 7318, SFO, BOM, 17:48:00, 1, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
 7319, SFO, BOM, 17:48:00, 2, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
@@ -7179,7 +7169,6 @@ Here are the flight entries for the best flights ranked based on price and conve
 7321, SFO, BOM, 17:48:00, 4, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
 7322, SFO, BOM, 17:48:00, 5, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
 7323, SFO, BOM, 17:48:00, 6, 12:40:00, 53:22:00, 3, F937, F9, Frontier, 698, 1200, 1800
-
 7324, SFO, BOM, 15:05:00, 0, 13:10:00, 32:35:00, 3, AF2345, AF, Air France, 739, 1200, 1800
 7325, SFO, BOM, 15:05:00, 1, 13:10:00, 32:35:00, 3, AF2345, AF, Air France, 739, 1200, 1800
 7326, SFO, BOM, 15:05:00, 2, 13:10:00, 32:35:00, 3, AF2345, AF, Air France, 739, 1200, 1800
