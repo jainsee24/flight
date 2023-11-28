@@ -13,7 +13,6 @@ from capstone.utils import render_to_pdf, createticket
 #Fee and Surcharge variable
 from .constant import FEE
 from flight.utils import createWeekDays, addPlaces, addDomesticFlights, addInternationalFlights
-addInternationalFlights()
 try:
     if len(Week.objects.all()) == 0:
         createWeekDays()
