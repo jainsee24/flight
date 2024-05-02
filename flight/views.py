@@ -13,6 +13,7 @@ from capstone.utils import render_to_pdf, createticket
 #Fee and Surcharge variable
 from .constant import FEE
 from flight.utils import createWeekDays, addPlaces, addDomesticFlights, addInternationalFlights
+print(1)
 try:
     if len(Week.objects.all()) == 0:
         createWeekDays()
@@ -27,7 +28,7 @@ try:
             addInternationalFlights()
 except:
     pass
-# addInternationalFlights()
+
 # Create your views here.
 def add(request):
     addInternationalFlights()
